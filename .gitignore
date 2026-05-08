@@ -1,0 +1,12 @@
+# build files
+build/
+
+# compiled binaries
+log_analyzer
+
+# editor files
+.vscode/
+.idea/
+
+# system files
+.DS_Store

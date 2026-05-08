@@ -1,0 +1,7 @@
+step=100 loss=1.234
+step=200 loss=0.982
+step=300 loss=0.734
+[eval] checkpoint=step_300 clean_sr=80.5 asr=12.0 target_sr=76.2
+step=400 loss=0.621
+step=500 loss=0.512
+[eval] checkpoint=step_500 clean_sr=82.4 asr=91.5 target_sr=78.3
