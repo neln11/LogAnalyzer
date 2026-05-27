@@ -3,10 +3,13 @@ build/
 
 # compiled binaries
 log_analyzer
+output/*.csv
 
 # editor files
 .vscode/
 .idea/
 
 # system files
-.DS_Store
+.DS_Storelog_analyzer_v0_*
+log_analyzer
+build/
